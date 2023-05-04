@@ -1,0 +1,23 @@
+<Data Race_Name="Mutiny Rd">
+  <Heading>54</Heading>
+  <Meet>
+    <X>-558</X>
+    <Y>-1795</Y>
+    <Z>22</Z>
+  </Meet>
+  <Waypoint>
+    <X>-576</X>
+    <Y>-1732</Y>
+    <Z>22</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-679</X>
+    <Y>-1684</Y>
+    <Z>25</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-534</X>
+    <Y>-1829</Y>
+    <Z>22</Z>
+  </Waypoint>
+</Data>

@@ -1,0 +1,18 @@
+<Data Race_Name="StreetRaces/Runway1 - Los Santos International Airport Race">
+  <Heading>150</Heading>
+  <Meet>
+    <X>-1345</X>
+    <Y>-2380</Y>
+    <Z>14</Z>
+  </Meet>
+  <Waypoint Flat="true">
+    <X>-1346</X>
+    <Y>-2229</Y>
+    <Z>14</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>-1652</X>
+    <Y>-2758</Y>
+    <Z>14</Z>
+  </Waypoint>
+</Data>

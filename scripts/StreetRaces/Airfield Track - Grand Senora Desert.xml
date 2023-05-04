@@ -1,0 +1,48 @@
+<Data Race_Name="Airfield Track">
+  <Heading>285</Heading>
+  <Meet>
+    <X>1254</X>
+    <Y>3020</Y>
+    <Z>43</Z>
+  </Meet>
+  <Waypoint Flat="true">
+    <X>1301</X>
+    <Y>3074</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1503</X>
+    <Y>3129</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1573</X>
+    <Y>3166</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1595</X>
+    <Y>3214</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1429</X>
+    <Y>3177</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Dangerous="true" Flat="true">
+    <X>1108</X>
+    <Y>3092</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1065</X>
+    <Y>3037</Y>
+    <Z>41</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1109</X>
+    <Y>3022</Y>
+    <Z>40</Z>
+  </Waypoint>
+</Data>

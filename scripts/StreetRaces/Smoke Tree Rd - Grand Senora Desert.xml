@@ -1,0 +1,59 @@
+<Data Race_Name="StreetRaces/Smoke Tree Rd - Grand Senora Desert Race">
+  <Heading>11</Heading>
+  <Meet>
+    <X>2197</X>
+    <Y>3344</Y>
+    <Z>45</Z>
+  </Meet>
+  <Waypoint Offroad="true">
+    <X>2230</X>
+    <Y>3300</Y>
+    <Z>46</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2174</X>
+    <Y>3429</Y>
+    <Z>45</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2162</X>
+    <Y>3676</Y>
+    <Z>36</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2436</X>
+    <Y>3892</Y>
+    <Z>36</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2707</X>
+    <Y>3920</Y>
+    <Z>43</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2847</X>
+    <Y>3726</Y>
+    <Z>48</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>2847</X>
+    <Y>3597</Y>
+    <Z>53</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2746</X>
+    <Y>3420</Y>
+    <Z>56</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>2618</X>
+    <Y>3327</Y>
+    <Z>54</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2314</X>
+    <Y>3241</Y>
+    <Z>47</Z>
+  </Waypoint>
+
+</Data>

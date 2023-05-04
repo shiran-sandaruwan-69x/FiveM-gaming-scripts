@@ -1,0 +1,68 @@
+<Data Race_Name="East Joshua Road">
+  <Heading>309</Heading>
+  <Meet>
+    <X>2448</X>
+    <Y>3784</Y>
+    <Z>41</Z>
+  </Meet>
+  <Waypoint>
+    <X>2456</X>
+    <Y>3816</Y>
+    <Z>40</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2508</X>
+    <Y>3833</Y>
+    <Z>46</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2567</X>
+    <Y>3855</Y>
+    <Z>58</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2614</X>
+    <Y>3833</Y>
+    <Z>75</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2618</X>
+    <Y>3742</Y>
+    <Z>87</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2624</X>
+    <Y>3660</Y>
+    <Z>101</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2534</X>
+    <Y>3610</Y>
+    <Z>97</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2417</X>
+    <Y>3557</Y>
+    <Z>75</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2336</X>
+    <Y>3560</Y>
+    <Z>51</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2328</X>
+    <Y>3632</Y>
+    <Z>43</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2386</X>
+    <Y>3673</Y>
+    <Z>54</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>2413</X>
+    <Y>3767</Y>
+    <Z>40</Z>
+  </Waypoint>
+</Data>

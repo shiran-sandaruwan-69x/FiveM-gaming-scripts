@@ -1,0 +1,63 @@
+<Data Race_Name="StreetRaces/Joshua Rd - Grand Senora Desert Race">
+  <Heading>119</Heading>
+  <Meet>
+    <X>326</X>
+    <Y>3423</Y>
+    <Z>36</Z>
+  </Meet>
+  <Waypoint Offroad="true">
+    <X>340</X>
+    <Y>3414</Y>
+    <Z>36</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>295</X>
+    <Y>3347</Y>
+    <Z>45</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>375</X>
+    <Y>3335</Y>
+    <Z>62</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>464</X>
+    <Y>3323</Y>
+    <Z>77</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>548</X>
+    <Y>3361</Y>
+    <Z>99</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>717</X>
+    <Y>3360</Y>
+    <Z>64</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>822</X>
+    <Y>3379</Y>
+    <Z>77</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>817</X>
+    <Y>3481</Y>
+    <Z>36</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>803</X>
+    <Y>3531</Y>
+    <Z>34</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>618</X>
+    <Y>3514</Y>
+    <Z>34</Z>
+  </Waypoint>
+  <Waypoint Dangerous="true">
+    <X>404</X>
+    <Y>3476</Y>
+    <Z>34</Z>
+  </Waypoint>
+</Data>

@@ -1,0 +1,40 @@
+<Data Race_Name="New Empire Way">
+  <Heading>149</Heading>
+  <Meet>
+    <X>-1002</X>
+    <Y>-2530</Y>
+    <Z>14</Z>
+  </Meet>
+  <Waypoint>
+    <X>-985</X>
+    <Y>-2613</Y>
+    <Z>14</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-1026</X>
+    <Y>-2711</Y>
+    <Z>13</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-961</X>
+    <Y>-2629</Y>
+    <Z>13</Z>
+  </Waypoint>
+
+  <Waypoint>
+    <X>-865</X>
+    <Y>-2549</Y>
+    <Z>13</Z>
+  </Waypoint>
+    <Waypoint>
+    <X>-865</X>
+    <Y>-2432</Y>
+    <Z>13</Z>
+  </Waypoint>
+  
+  <Waypoint>
+    <X>-961</X>
+    <Y>-2486</Y>
+    <Z>13</Z>
+  </Waypoint>
+</Data>

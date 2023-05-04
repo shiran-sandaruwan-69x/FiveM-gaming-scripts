@@ -1,0 +1,23 @@
+<Data Race_Name="StreetRaces/Route 68 - Grand Senora Desert Race">
+  <Heading>34</Heading>
+  <Meet>
+    <X>1941</X>
+    <Y>2693</Y>
+    <Z>42</Z>
+  </Meet>
+  <Waypoint>
+    <X>1843</X>
+    <Y>2852</Y>
+    <Z>43</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1743</X>
+    <Y>2821</Y>
+    <Z>45</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1860</X>
+    <Y>2774</Y>
+    <Z>45</Z>
+  </Waypoint>
+</Data>

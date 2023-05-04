@@ -1,0 +1,23 @@
+<Data Race_Name="Autopia Pkwy">
+  <Heading>272</Heading>
+  <Meet>
+    <X>96</X>
+    <Y>-2212</Y>
+    <Z>5</Z>
+  </Meet>
+  <Waypoint>
+    <X>156</X>
+    <Y>-2191</Y>
+    <Z>5</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>268</X>
+    <Y>-2208</Y>
+    <Z>8</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>91</X>
+    <Y>-2213</Y>
+    <Z>5</Z>
+  </Waypoint>
+</Data>

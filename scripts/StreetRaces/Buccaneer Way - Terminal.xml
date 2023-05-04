@@ -1,0 +1,28 @@
+<Data Race_Name="Buccaneer Way">
+  <Heading>178</Heading>
+  <Meet>
+    <X>1191</X>
+    <Y>-3202</Y>
+    <Z>6</Z>
+  </Meet>
+  <Waypoint>
+    <X>1257</X>
+    <Y>-3250</Y>
+    <Z>5</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1214</X>
+    <Y>-3342</Y>
+    <Z>5</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1167</X>
+    <Y>-3259</Y>
+    <Z>5</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1195</X>
+    <Y>-3091</Y>
+    <Z>5</Z>
+  </Waypoint>
+</Data>

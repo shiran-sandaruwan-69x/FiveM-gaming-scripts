@@ -1,0 +1,54 @@
+<Data Race_Name="MIRR">
+  <Heading>271</Heading>
+      <Meet>
+    <X>1011</X>
+    <Y>-766</Y>
+    <Z>57</Z>
+  </Meet>
+  <Waypoint>
+    <X>1147</X>
+    <Y>-760</Y>
+    <Z>57</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1291</X>
+    <Y>-691</Y>
+    <Z>65</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1263</X>
+    <Y>-556</Y>
+    <Z>69</Z>
+  </Waypoint>
+    <Waypoint>
+    <X>1272</X>
+    <Y>-407</Y>
+    <Z>69</Z>
+  </Waypoint>
+
+  <Waypoint Dangerous="true">
+    <X>1218</X>
+    <Y>-375</Y>
+    <Z>68</Z>
+  </Waypoint>
+  <Waypoint >
+    <X>1040</X>
+    <Y>-424</Y>
+    <Z>66</Z>
+  </Waypoint>
+    <Waypoint>
+    <X>922</X>
+    <Y>-503</Y>
+    <Z>59</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>946</X>
+    <Y>-620</Y>
+    <Z>57</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1011</X>
+    <Y>-719</Y>
+    <Z>57</Z>
+  </Waypoint>
+</Data>

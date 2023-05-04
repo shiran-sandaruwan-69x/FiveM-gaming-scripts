@@ -1,0 +1,58 @@
+<Data Race_Name="Redwood Track Race">
+  <Heading>2</Heading>
+  <Meet>
+    <X>1194</X>
+    <Y>2399</Y>
+    <Z>63</Z>
+  </Meet>
+  <Waypoint>
+    <X>1166</X>
+    <Y>2396</Y>
+    <Z>57</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1110</X>
+    <Y>2478</Y>
+    <Z>50</Z>
+  </Waypoint>
+  <Waypoint Offroad="true">
+    <X>1030</X>
+    <Y>2436</Y>
+    <Z>45</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>967</X>
+    <Y>2467</Y>
+    <Z>50</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>894</X>
+    <Y>2388</Y>
+    <Z>50</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>899</X>
+    <Y>2307</Y>
+    <Z>46</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1007</X>
+    <Y>2196</Y>
+    <Z>45</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1102</X>
+    <Y>2156</Y>
+    <Z>53</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1170</X>
+    <Y>2196</Y>
+    <Z>50</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1166</X>
+    <Y>2269</Y>
+    <Z>50</Z>
+  </Waypoint>
+</Data>

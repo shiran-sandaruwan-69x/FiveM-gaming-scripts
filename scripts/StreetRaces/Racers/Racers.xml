@@ -1,0 +1,3959 @@
+<Racers>
+  <!-->TunerClass<!-->
+  <Driver Name="Night Diamond" Class="Tuner">
+    <Vehicle>
+      <Model Name="Windsor Drop">-1930048799</Model>
+      <WheelType>8</WheelType>
+      <TrimColor>75</TrimColor>
+      <DashColor>27</DashColor>
+      <PrimaryColor>62</PrimaryColor>
+      <SecondaryColor>62</SecondaryColor>
+      <PearlescentColor>68</PearlescentColor>
+      <RimColor>145</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>29KWC256</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="23">214</Mod>
+        <Mod ModIndex="62">214</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>True</Left>
+        <Right>True</Right>
+        <Front>True</Front>
+        <Back>True</Back>
+      </Neons>
+      <NeonColor>
+        <R>85</R>
+        <G>26</G>
+        <B>139</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tuner Blista" Class="Tuner">
+    <Vehicle>
+      <Model Name="Blista">-344943009</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>112</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>46EEK572</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="11">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">0</Mod>
+        <Mod ModIndex="50">0</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">0</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Huntley S" Class="Tuner">
+    <Vehicle>
+      <Model Name="Huntley S">486987393</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>8</PrimaryColor>
+      <SecondaryColor>28</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>8</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>62TCD114</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">1</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">33</Mod>
+        <Mod ModIndex="50">1</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">0</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">33</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Lamar" Class="Tuner">
+    <PedModel>cs_lamardavis</PedModel>
+    <Vehicle>
+      <Model Name="Emperor">-685276541</Model>
+      <WheelType>2</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>50</PrimaryColor>
+      <SecondaryColor>95</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>HUSTLER </LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods />
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Families Buccaneer" Class="Tuner">
+    <Vehicle>
+      <Model Name="Buccaneer">-682211828</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>58</PrimaryColor>
+      <SecondaryColor>49</SecondaryColor>
+      <PearlescentColor>55</PearlescentColor>
+      <RimColor>94</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>68CBY107</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="6">0</Mod>
+        <Mod ModIndex="7">1</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">7</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">7</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Generic Tuner" Class="Tuner">
+    <Vehicle>
+      <Model Name="Felon">-391594584</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>143</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>31</PearlescentColor>
+      <RimColor>35</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>60UZQ500</LicensePlateText>
+      <WindowsTint>3</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">4</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">4</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Generic Tuner" Class="Tuner">
+    <Vehicle>
+      <Model Name="Oracle XS">1348744438</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>89</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>4</LicensePlate>
+      <LicensePlateText>01ODB651</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="23">14</Mod>
+        <Mod ModIndex="62">14</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Watermelon" Class="Tuner">
+    <Vehicle>
+      <Model Name="Sentinel XS">1349725314</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>135</PrimaryColor>
+      <SecondaryColor>92</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>55</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>85SXJ489</LicensePlateText>
+      <WindowsTint>2</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">20</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">20</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Generic Tuner" Class="Tuner">
+    <Vehicle>
+      <Model Name="Zion">-1122289213</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>72</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>64</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>48VDZ738</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="4">3</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="12">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">0</Mod>
+        <Mod ModIndex="51">0</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">0</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tuner Asea" Class="Tuner">
+    <Vehicle>
+      <Model Name="Asea">-1809822327</Model>
+      <WheelType>5</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>33</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>47</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>4</LicensePlate>
+      <LicensePlateText>61KIP155</LicensePlateText>
+      <WindowsTint>0</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Black Ingot" Class="Tuner">
+    <Vehicle>
+      <Model Name="Ingot">-1289722222</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>0</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>85QLV770</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">1</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="23">9</Mod>
+        <Mod ModIndex="62">9</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tuner Primo" Class="Tuner">
+    <Vehicle>
+      <Model Name="Primo Custom">-2040426790</Model>
+      <WheelType>8</WheelType>
+      <TrimColor>70</TrimColor>
+      <DashColor>64</DashColor>
+      <PrimaryColor>70</PrimaryColor>
+      <SecondaryColor>67</SecondaryColor>
+      <PearlescentColor>70</PearlescentColor>
+      <RimColor>70</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>24FQZ333</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>0</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="0">1</Mod>
+        <Mod ModIndex="1">2</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="4">1</Mod>
+        <Mod ModIndex="6">3</Mod>
+        <Mod ModIndex="23">210</Mod>
+        <Mod ModIndex="27">1</Mod>
+        <Mod ModIndex="30">1</Mod>
+        <Mod ModIndex="33">15</Mod>
+        <Mod ModIndex="36">1</Mod>
+        <Mod ModIndex="37">4</Mod>
+        <Mod ModIndex="38">3</Mod>
+        <Mod ModIndex="39">3</Mod>
+        <Mod ModIndex="40">4</Mod>
+        <Mod ModIndex="43">0</Mod>
+        <Mod ModIndex="44">2</Mod>
+        <Mod ModIndex="45">2</Mod>
+        <Mod ModIndex="48">0</Mod>
+        <Mod ModIndex="62">210</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Night Regina" Class="Tuner">
+    <Vehicle>
+      <Model Name="Regina">-14495224</Model>
+      <WheelType>2</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>73</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>73</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>4</LicensePlate>
+      <LicensePlateText>86FWG775</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="23">25</Mod>
+        <Mod ModIndex="62">25</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tuner Stratum" Class="Tuner">
+    <Vehicle>
+      <Model Name="Stratum">1723137093</Model>
+      <WheelType>5</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>0</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>03VZM900</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">1</Component>
+        <Component ComponentIndex="2">1</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">1</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">5</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">5</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Night Buccaneer" Class="Tuner">
+    <Vehicle>
+      <Model Name="Buccaneer">-682211828</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>29</PrimaryColor>
+      <SecondaryColor>2</SecondaryColor>
+      <PearlescentColor>28</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>85JRP825</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="6">0</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Night Buccaneer Custo" Class="Tuner">
+    <Vehicle>
+      <Model Name="Buccaneer Custom">-1013450936</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>148</TrimColor>
+      <DashColor>148</DashColor>
+      <PrimaryColor>135</PrimaryColor>
+      <SecondaryColor>112</SecondaryColor>
+      <PearlescentColor>135</PearlescentColor>
+      <RimColor>90</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>07LOV974</LicensePlateText>
+      <WindowsTint>2</WindowsTint>
+      <Livery>4</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">1</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="24">3</Mod>
+        <Mod ModIndex="25">12</Mod>
+        <Mod ModIndex="27">8</Mod>
+        <Mod ModIndex="30">10</Mod>
+        <Mod ModIndex="33">10</Mod>
+        <Mod ModIndex="36">3</Mod>
+        <Mod ModIndex="37">6</Mod>
+        <Mod ModIndex="38">3</Mod>
+        <Mod ModIndex="39">2</Mod>
+        <Mod ModIndex="40">1</Mod>
+        <Mod ModIndex="45">0</Mod>
+        <Mod ModIndex="48">4</Mod>
+        <Mod ModIndex="63">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Vagos Blade" Class="Tuner">
+    <Vehicle>
+      <Model Name="Blade">-1205801634</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>89</PrimaryColor>
+      <SecondaryColor>11</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>68BJK071</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="7">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Prairie" Class="Tuner">
+    <Vehicle>
+      <Model Name="Prairie">-1450650718</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>6</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>4</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>46EEK572</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="12">1</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">0</Mod>
+        <Mod ModIndex="51">1</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">0</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Red Rhapsody" Class="Tuner">
+    <Vehicle>
+      <Model Name="Rhapsody">841808271</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>31</PrimaryColor>
+      <SecondaryColor>31</SecondaryColor>
+      <PearlescentColor>27</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>20KDA975</LicensePlateText>
+      <WindowsTint>2</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="7">2</Mod>
+        <Mod ModIndex="8">1</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">35</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">35</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dark Vigero" Class="Tuner">
+    <Vehicle>
+      <Model Name="Vigero">-825837129</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>141</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>73</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>82CSN579</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="12">1</Mod>
+        <Mod ModIndex="15">2</Mod>
+        <Mod ModIndex="23">9</Mod>
+        <Mod ModIndex="51">1</Mod>
+        <Mod ModIndex="54">2</Mod>
+        <Mod ModIndex="62">9</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Red Tampa" Class="Tuner">
+    <Vehicle>
+      <Model Name="Tampa">972671128</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>28</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>81AWD654</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="1">2</Mod>
+        <Mod ModIndex="2">2</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="6">3</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">2</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Stallion" Class="Tuner">
+    <Vehicle>
+      <Model Name="Stallion">1923400478</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>70</PrimaryColor>
+      <SecondaryColor>21</SecondaryColor>
+      <PearlescentColor>70</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>29FSV480</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">1</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="23">32</Mod>
+        <Mod ModIndex="62">32</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Twilight Moonbeam" Class="Tuner">
+    <Vehicle>
+      <Model Name="Moonbeam">525509695</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>34</TrimColor>
+      <DashColor>42</DashColor>
+      <PrimaryColor>61</PrimaryColor>
+      <SecondaryColor>61</SecondaryColor>
+      <PearlescentColor>35</PearlescentColor>
+      <RimColor>142</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>SPARKLES</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">4</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">4</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tuner Ruiner" Class="Tuner">
+    <Vehicle>
+      <Model Name="Ruiner">-227741703</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>138</PrimaryColor>
+      <SecondaryColor>53</SecondaryColor>
+      <PearlescentColor>89</PearlescentColor>
+      <RimColor>55</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>86OVC739</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">1</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="1">1</Mod>
+        <Mod ModIndex="4">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Gray Picador" Class="Tuner">
+    <Vehicle>
+      <Model Name="Picador">1507916787</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>66</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>60</PearlescentColor>
+      <RimColor>8</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>64MUD663</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="23">4</Mod>
+        <Mod ModIndex="62">4</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Night Rat" Class="Tuner">
+    <Vehicle>
+      <Model Name="Rat-Truck">-589178377</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>0</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>2</LicensePlate>
+      <LicensePlateText>46DWP995</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">7</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">7</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Night Asterope" Class="Tuner">
+    <Vehicle>
+      <Model Name="Asterope">-1903012613</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>145</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>142</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>45PLA347</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="23">0</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="62">0</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>True</Left>
+        <Right>True</Right>
+        <Front>True</Front>
+        <Back>True</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>20</G>
+        <B>147</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Red Habanero" Class="Tuner">
+    <Vehicle>
+      <Model Name="Habanero">884422927</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>29</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>28</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>48UDW935</LicensePlateText>
+      <WindowsTint>1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+        <Toggle ToggleIndex="22">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="23">6</Mod>
+        <Mod ModIndex="62">6</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <!-->TunerClass<!-->
+  <!-->StreetClass<!-->
+  <Driver Name="Manana" Class="Street">
+    <Vehicle>
+      <Model Name="Manana">-2124201592</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sports Pigalle" Class="Street">
+    <Vehicle>
+      <Model Name="Pigalle">1078682497</Model>
+      <WheelType>5</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>134</PrimaryColor>
+      <SecondaryColor>28</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>83OCW456</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="4">1</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="11">1</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">1</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Stinger" Class="Street">
+    <Vehicle>
+      <Model Name="Stinger">1545842587</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tornado" Class="Street">
+    <Vehicle>
+      <Model Name="Tornado">464687292</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Casco" Class="Street">
+    <Vehicle>
+      <Model Name="Casco">941800958</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Peyote" Class="Street">
+    <Vehicle>
+      <Model Name="Peyote">1830407356</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Stirling" Class="Street">
+    <Vehicle>
+      <Model Name="Stirling GT">-1566741232</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Mamba" Class="Street">
+    <Vehicle>
+      <Model Name="Mamba">-1660945322</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>75</PrimaryColor>
+      <SecondaryColor>75</SecondaryColor>
+      <PearlescentColor>70</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>06UUJ180</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">1</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sports Mamba" Class="Street">
+    <Vehicle>
+      <Model Name="Mamba">-1660945322</Model>
+      <WheelType>1</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>29</PrimaryColor>
+      <SecondaryColor>89</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>06UUJ180</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">1</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sport Blista" Class="Street">
+    <Vehicle>
+      <Model Name="Blista">-344943009</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>100</PrimaryColor>
+      <SecondaryColor>147</SecondaryColor>
+      <PearlescentColor>100</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>46EEK572</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="55">4</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Shrekt" Class="Street">
+    <Vehicle>
+      <Model Name="Brioso R/A">1549126457</Model>
+      <WheelType>7</WheelType>
+      <TrimColor>29</TrimColor>
+      <DashColor>111</DashColor>
+      <PrimaryColor>92</PrimaryColor>
+      <SecondaryColor>100</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>4</LicensePlate>
+      <LicensePlateText> SHREKT </LicensePlateText>
+      <WindowsTint>0</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">1</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">2</Mod>
+        <Mod ModIndex="16">2</Mod>
+        <Mod ModIndex="23">5</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">1</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">2</Mod>
+        <Mod ModIndex="55">2</Mod>
+        <Mod ModIndex="62">5</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Issi" Class="Street">
+    <Vehicle>
+      <Model Name="Issi">-1177863319</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>88</PrimaryColor>
+      <SecondaryColor>111</SecondaryColor>
+      <PearlescentColor>88</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>63DUX722</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="3">0</Mod>
+        <Mod ModIndex="7">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="23">0</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="55">4</Mod>
+        <Mod ModIndex="62">0</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sports Watermelon" Class="Street">
+    <Vehicle>
+      <Model Name="Huntley S">486987393</Model>
+      <WheelType>3</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>29</PrimaryColor>
+      <SecondaryColor>92</SecondaryColor>
+      <PearlescentColor>0</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>60IPH162</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">1</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="4">3</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="23">27</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="55">4</Mod>
+        <Mod ModIndex="62">27</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Habanero" Class="Street">
+    <Vehicle>
+      <Model Name="Habanero">884422927</Model>
+      <WheelType>5</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>9</PrimaryColor>
+      <SecondaryColor>0</SecondaryColor>
+      <PearlescentColor>7</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>3</LicensePlate>
+      <LicensePlateText>01HUZ547</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">1</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="23">41</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="55">4</Mod>
+        <Mod ModIndex="62">41</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Supercharged Tampa" Class="Street">
+    <Vehicle>
+      <Model Name="Tampa">972671128</Model>
+      <CustomTurbo>20</CustomTurbo>
+      <WheelType>1</WheelType>
+      <TrimColor>160</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>0</PrimaryColor>
+      <SecondaryColor>92</SecondaryColor>
+      <PearlescentColor>10</PearlescentColor>
+      <RimColor>0</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>80ELY993</LicensePlateText>
+      <WindowsTint>0</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="1">3</Mod>
+        <Mod ModIndex="2">2</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="6">3</Mod>
+        <Mod ModIndex="7">3</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="23">35</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="55">4</Mod>
+        <Mod ModIndex="62">35</Mod>
+      </Mods>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+  <!-->StreetClass<!-->
+  <!-->GenericStreetClass-NeedTuning<!-->
+  <Driver Name="Dukes" Class="Street">
+    <Vehicle>
+      <Model Name="Dukes">723973206</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Gauntlet" Class="Street">
+    <Vehicle>
+      <Model Name="Gauntlet">-1800170043</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Phoenix" Class="Street">
+    <Vehicle>
+      <Model Name="Phoenix">-2095439403</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sabre Turbo" Class="Street">
+    <Vehicle>
+      <Model Name="Sabre Turbo">-1685021548</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tampa" Class="Street">
+    <Vehicle>
+      <Model Name="Tampa">972671128</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Carbonizzare" Class="Street">
+    <Vehicle>
+      <Model Name="Carbonizzare">2072687711</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Comet" Class="Street">
+    <Vehicle>
+      <Model Name="Comet">-1045541610</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Feltzer" Class="Street">
+    <Vehicle>
+      <Model Name="Feltzer">-1995326987</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Furore GT" Class="Street">
+    <Vehicle>
+      <Model Name="Furore GT">-1089039904</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Kuruma" Class="Street">
+    <Vehicle>
+      <Model Name="Kuruma">-1372848492</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Lynx" Class="Street">
+    <Vehicle>
+      <Model Name="Lynx">482197771</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Massacro" Class="Street">
+    <Vehicle>
+      <Model Name="Massacro">-142942670</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="9F" Class="Street">
+    <Vehicle>
+      <Model Name="9F">1032823388</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Schafter V12" Class="Street">
+    <Vehicle>
+      <Model Name="Schafter V12">-1485523546</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Seven-70" Class="Street">
+    <Vehicle>
+      <Model Name="Seven-70">-1757836725</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Surano" Class="Street">
+    <Vehicle>
+      <Model Name="Surano">384071873</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Coquette" Class="Street">
+    <Vehicle>
+      <Model Name="Coquette">108773431</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Banshee" Class="Street">
+    <Vehicle>
+      <Model Name="Banshee">-1041692462</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Elegy RH8" Class="Street">
+    <Vehicle>
+      <Model Name="Elegy RH8">-566387422</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <!-->GenericStreetClass-NeedTuning<!-->
+  <!-->GenericSuperClass-NeedTuning<!-->
+  <Driver Name="811" Class="Super">
+    <Vehicle>
+      <Model Name="811">-1829802492</Model>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="16">4</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+        <Mod ModIndex="55">4</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Adder" Class="Super">
+    <Vehicle>
+      <Model Name="Adder">-1216765807</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Bullet" Class="Super">
+    <Vehicle>
+      <Model Name="Bullet">-1696146015</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Cheetah" Class="Super">
+    <Vehicle>
+      <Model Name="Cheetah">-1311154784</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Entity FX" Class="Super">
+    <Vehicle>
+      <Model Name="Entity XF">-1291952903</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="FMJ" Class="Super">
+    <Vehicle>
+      <Model Name="FMJ">1426219628</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Infernus" Class="Super">
+    <Vehicle>
+      <Model Name="Infernus">418536135</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Osiris" Class="Super">
+    <Vehicle>
+      <Model Name="Osiris">1987142870</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Reaper" Class="Super">
+    <Vehicle>
+      <Model Name="Reaper">234062309</Model>
+      <WheelType>7</WheelType>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="T20" Class="Super">
+    <Vehicle>
+      <Model Name="T20">1663218586</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Turismo R" Class="Super">
+    <Vehicle>
+      <Model Name="Turismo R">408192225</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tyrus" Class="Super">
+    <Vehicle>
+      <Model Name="Tyrus">2067820283</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Vacca" Class="Super">
+    <Vehicle>
+      <Model Name="Vacca">338562499</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Voltic" Class="Super">
+    <Vehicle>
+      <Model Name="Voltic">-1622444098</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="X80 Proto" Class="Super">
+    <Vehicle>
+      <Model Name="X80 Proto">2123327359</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="15">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="54">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Zentorno" Class="Super">
+    <Vehicle>
+      <Model Name="Zentorno">-1403128555</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Banshee 900R" Class="Super">
+    <Vehicle>
+      <Model Name="Banshee 900R">633712403</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <!-->GenericSuperClass-NeedTuning<!-->
+  <!-->GenericOffroadClass-NeedTuning<!-->
+  <!-->GenericOffroadClass-NeedTuning<!-->
+  <!-->OffroadClass<!-->
+  <Driver Name="Generic Dubsta" Class="Offroad">
+    <Vehicle>
+      <Model Name="Dubsta 6x6">-1237253773</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Brawler" Class="Offroad">
+    <Vehicle>
+      <Model Name="Brawler">-1479664699</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+    <Driver Name="Generic Mesa" Class="Offroad">
+      <Vehicle>
+        <Model Name="Mesa">-2064372143</Model>
+        <Mods>
+          <Mod ModIndex="11">3</Mod>
+          <Mod ModIndex="12">2</Mod>
+          <Mod ModIndex="13">2</Mod>
+          <Mod ModIndex="50">3</Mod>
+          <Mod ModIndex="51">2</Mod>
+          <Mod ModIndex="52">2</Mod>
+        </Mods>
+      </Vehicle>
+    </Driver>
+  </Driver>
+  <Driver Name="Rancher XL" Class="Offroad">
+    <Vehicle>
+      <Model Name="Rancher XL">1645267888</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Rusty Rebel" Class="Offroad">
+    <Vehicle>
+      <Model Name="Rusty Rebel">-1207771834</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sandking XL" Class="Offroad">
+    <Vehicle>
+      <Model Name="Sandking XL">-1189015600</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Injection" Class="Offroad">
+    <Vehicle>
+      <Model Name="Injection">1126868326</Model>
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Rumpo Custom" Class="Offroad">
+    <Vehicle>
+      <Model Name="Rumpo Custom">1475773103</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tornado Rat Rod" Class="Street">
+    <Vehicle>
+      <Model Name="Tornado Rat Rod">-1558399629</Model>
+      <Mods>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Cavalcade" Class="SUVs">
+    <Vehicle>
+      <Model Name="Cavalcade">-789894171</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dubsta" Class="SUVs">
+    <Vehicle>
+      <Model Name="Dubsta">1177543287</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="FQ 2" Class="SUVs">
+    <Vehicle>
+      <Model Name="FQ 2">-1137532101</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Granger" Class="SUVs">
+    <Vehicle>
+      <Model Name="Granger">-1775728740</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Patriot" Class="SUVs">
+    <Vehicle>
+      <Model Name="Patriot">-808457413</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Seminole" Class="SUVs">
+    <Vehicle>
+      <Model Name="Seminole">1221512915</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Serrano" Class="SUVs">
+    <Vehicle>
+      <Model Name="Serrano">1337041428</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="XLS" Class="SUVs">
+    <Vehicle>
+      <Model Name="XLS">1203490606</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Baller LE" Class="SUVs">
+    <Vehicle>
+      <Model Name="Baller LE">1878062887</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dominator" Class="Street">
+    <Vehicle>
+      <Model Name="Dominator">80636076</Model>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Faction" Class="Tuner">
+    <Vehicle>
+      <Model Name="Faction">-2119578145</Model>
+      <ModToggles />
+      <Mods />
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sultan" Class="Street">
+    <Vehicle>
+      <Model Name="Sultan">970598228</Model>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Blista Compact" Class="Street">
+    <Vehicle>
+      <Model Name="Blista Compact">1039032026</Model>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="BMX" Class="Cycles">
+    <Vehicle>
+      <Model Name="BMX">1131912276</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="BMX" Class="Cycles">
+    <Vehicle>
+      <Model Name="BMX">1131912276</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="BMX" Class="Cycles">
+    <Vehicle>
+      <Model Name="BMX">1131912276</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Cruiser" Class="Cycles">
+    <Vehicle>
+      <Model Name="Cruiser">448402357</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Cruiser" Class="Cycles">
+    <Vehicle>
+      <Model Name="Cruiser">448402357</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Fixter" Class="Cycles">
+    <Vehicle>
+      <Model Name="Fixter">-836512833</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Fixter" Class="Cycles">
+    <Vehicle>
+      <Model Name="Fixter">-836512833</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Scorcher" Class="Cycles">
+    <Vehicle>
+      <Model Name="Scorcher">-186537451</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Scorcher" Class="Cycles">
+    <Vehicle>
+      <Model Name="Scorcher">-186537451</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Akuma" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Akuma">1672195559</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Bati 801" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Bati 801">-114291515</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Carbon RS" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Carbon RS">11251904</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Cliffhanger" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Cliffhanger">390201602</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Double-T" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Double-T">-1670998136</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Hakuchou" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Hakuchou">1265391242</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Lectro" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Lectro">640818791</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="PCJ 600" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="PCJ 600">-909201658</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Ruffian" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Ruffian">-893578776</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Thrust" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Thrust">1836027715</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Vader" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Vader">-140902153</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Vindicator" Class="Motorcycles">
+    <Vehicle>
+      <Model Name="Vindicator">-1353081087</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Ripley" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Ripley">-845979911</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Utility Truck" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Utility Truck">887537515</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Brickade" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Brickade">-305727417</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Bus" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Bus">-713569950</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dune" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Dune">-2103821244</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Trashmaster" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Trashmaster">1917016601</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Stockade" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Stockade">1747439474</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Pounder" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Pounder">2112052861</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Packer" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Packer">569305213</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Mule" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Mule">904750859</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Hauler" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Hauler">1518533038</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Biff" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Biff">850991848</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Benson" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Benson">2053223216</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Clown Van" Class="Vans">
+    <Vehicle>
+      <Model Name="Clown Van">728614474</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Youga" Class="Vans">
+    <Vehicle>
+      <Model Name="Youga">65402552</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Burrito" Class="Vans">
+    <Vehicle>
+      <Model Name="Burrito">-1743316013</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Gang Burrito" Class="Vans">
+    <Vehicle>
+      <Model Name="Gang Burrito">296357396</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Paradise" Class="Vans">
+    <Vehicle>
+      <Model Name="Paradise">1488164764</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Rumpo Custom" Class="Offroad">
+    <Vehicle>
+      <Model Name="Rumpo Custom">1475773103</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Prairie" Class="Rally">
+    <Vehicle>
+      <Model Name="Prairie">-1450650718</Model>
+      <WheelType>4</WheelType>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>46EEK572</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">1</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">1</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">1</Mod>
+        <Mod ModIndex="23">2</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">1</Mod>
+        <Mod ModIndex="62">2</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Sentinel XS" Class="Rally">
+    <Vehicle>
+      <Model Name="Sentinel XS">1349725314</Model>
+      <WheelType>4</WheelType>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>25PVC034</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="1">0</Mod>
+        <Mod ModIndex="4">1</Mod>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="23">3</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="62">3</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dominator" Class="Rally">
+    <Vehicle>
+      <Model Name="Dominator">80636076</Model>
+      <WheelType>4</WheelType>
+      <LicensePlate>1</LicensePlate>
+      <LicensePlateText>  FAIL  </LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="2">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="6">0</Mod>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="23">7</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="62">7</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Dukes" Class="Rally">
+    <Vehicle>
+      <Model Name="Dukes">723973206</Model>
+      <WheelType>4</WheelType>
+      <LicensePlate>4</LicensePlate>
+      <LicensePlateText>01DOG680</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+      <ModToggles>
+        <Toggle ToggleIndex="18">true</Toggle>
+      </ModToggles>
+      <Mods>
+        <Mod ModIndex="0">0</Mod>
+        <Mod ModIndex="4">0</Mod>
+        <Mod ModIndex="5">0</Mod>
+        <Mod ModIndex="7">4</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="23">9</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="62">9</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tropos Rallye" Class="Rally">
+    <Vehicle>
+      <Model Name="Tropos Rallye">1887331236</Model>
+      <WheelType>4</WheelType>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>69MXR937</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+      <ModToggles />
+      <Mods>
+        <Mod ModIndex="10">0</Mod>
+        <Mod ModIndex="11">3</Mod>
+        <Mod ModIndex="12">2</Mod>
+        <Mod ModIndex="13">2</Mod>
+        <Mod ModIndex="23">5</Mod>
+        <Mod ModIndex="50">3</Mod>
+        <Mod ModIndex="51">2</Mod>
+        <Mod ModIndex="52">2</Mod>
+        <Mod ModIndex="62">5</Mod>
+      </Mods>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tempesta" Class="Super">
+    <Vehicle>
+      <Model Name="Tempesta">272929391</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Penetrator" Class="Super">
+    <Vehicle>
+      <Model Name="Penetrator">-1758137366</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Phantom Wedge" Class="Big Rigs">
+    <Vehicle>
+      <Model Name="Phantom Wedge">-1649536104</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Rocket Voltic" Class="Super">
+    <Vehicle>
+      <Model Name="Rocket Voltic">989294410</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Comet Retro Custom" Class="Street">
+    <Vehicle>
+      <Model Name="Comet Retro Custom">-2022483795</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Specter" Class="Street">
+    <Vehicle>
+      <Model Name="Specter">1886268224</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Specter Custom" Class="Street">
+    <Vehicle>
+      <Model Name="Specter Custom">1074745671</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Elegy Retro Custom" Class="Street">
+    <Vehicle>
+      <Model Name="Elegy Retro Custom">196747873</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Comet Retro Custom" Class="Street">
+    <Vehicle>
+      <Model Name="Comet Retro Custom">-2022483795</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Tornado Custom" Class="Street">
+    <Vehicle>
+      <Model Name="Tornado Custom">-1797613329</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Banshee 900R" Class="Street">
+    <Vehicle>
+      <Model Name="Banshee 900R">633712403</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Itali GTB" Class="Super">
+    <Vehicle>
+      <Model Name="Itali GTB">-2048333973</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Itali GTB Custom" Class="Super">
+    <Vehicle>
+      <Model Name="Itali GTB Custom">-482719877</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Nero" Class="Super">
+    <Vehicle>
+      <Model Name="Nero">1034187331</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Nero Custom" Class="Super">
+    <Vehicle>
+      <Model Name="Nero Custom">1093792632</Model>
+    </Vehicle>
+  </Driver>
+  <Driver Name="Wastelander" Class="Offroad">
+    <Vehicle>
+      <Model Name="Wastelander">-1912017790</Model>
+      <WheelType>0</WheelType>
+      <TrimColor>0</TrimColor>
+      <DashColor>0</DashColor>
+      <PrimaryColor>151</PrimaryColor>
+      <SecondaryColor>129</SecondaryColor>
+      <PearlescentColor>18</PearlescentColor>
+      <RimColor>156</RimColor>
+      <LicensePlate>0</LicensePlate>
+      <LicensePlateText>46EEK572</LicensePlateText>
+      <WindowsTint>-1</WindowsTint>
+      <Livery>-1</Livery>
+      <Components>
+        <Component ComponentIndex="0">0</Component>
+        <Component ComponentIndex="1">0</Component>
+        <Component ComponentIndex="2">0</Component>
+        <Component ComponentIndex="3">0</Component>
+        <Component ComponentIndex="4">0</Component>
+        <Component ComponentIndex="5">0</Component>
+        <Component ComponentIndex="6">0</Component>
+        <Component ComponentIndex="7">0</Component>
+        <Component ComponentIndex="8">0</Component>
+        <Component ComponentIndex="9">0</Component>
+        <Component ComponentIndex="10">0</Component>
+        <Component ComponentIndex="11">0</Component>
+        <Component ComponentIndex="12">0</Component>
+        <Component ComponentIndex="13">0</Component>
+        <Component ComponentIndex="14">0</Component>
+        <Component ComponentIndex="15">0</Component>
+        <Component ComponentIndex="16">0</Component>
+        <Component ComponentIndex="17">0</Component>
+        <Component ComponentIndex="18">0</Component>
+        <Component ComponentIndex="19">0</Component>
+        <Component ComponentIndex="20">0</Component>
+        <Component ComponentIndex="21">0</Component>
+        <Component ComponentIndex="22">0</Component>
+        <Component ComponentIndex="23">0</Component>
+        <Component ComponentIndex="24">0</Component>
+        <Component ComponentIndex="25">0</Component>
+      </Components>
+      <CustomTires>false</CustomTires>
+      <Neons>
+        <Left>False</Left>
+        <Right>False</Right>
+        <Front>False</Front>
+        <Back>False</Back>
+      </Neons>
+      <NeonColor>
+        <R>255</R>
+        <G>0</G>
+        <B>255</B>
+      </NeonColor>
+    </Vehicle>
+  </Driver>
+</Racers>

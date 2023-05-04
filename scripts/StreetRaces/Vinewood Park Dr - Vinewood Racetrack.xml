@@ -1,0 +1,28 @@
+<Data Race_Name="StreetRaces/Vinewood Park Dr - Vinewood Racetrack Race">
+  <Heading>147</Heading>
+  <Meet>
+    <X>1138</X>
+    <Y>278</Y>
+    <Z>80</Z>
+  </Meet>
+  <Waypoint>
+    <X>1130</X>
+    <Y>214</Y>
+    <Z>81</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1007</X>
+    <Y>18</Y>
+    <Z>81</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>1110</X>
+    <Y>-60</Y>
+    <Z>81</Z>
+  </Waypoint>
+  <Waypoint Flat="true">
+    <X>1250</X>
+    <Y>161</Y>
+    <Z>81</Z>
+  </Waypoint>
+</Data>

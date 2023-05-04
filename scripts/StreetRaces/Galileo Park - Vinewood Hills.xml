@@ -1,0 +1,34 @@
+<Data Race_Name="Galileo Park">
+  <Heading>249</Heading>
+  <Meet>
+    <X>-413</X>
+    <Y>1170</Y>
+    <Z>325</Z>
+  </Meet>
+  <Waypoint>
+    <X>-390</X>
+    <Y>1180</Y>
+    <Z>325</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-230</X>
+    <Y>1292</Y>
+    <Z>307</Z>
+  </Waypoint>
+
+  <Waypoint>
+    <X>-244</X>
+    <Y>1483</Y>
+    <Z>288</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-446</X>
+    <Y>1393</Y>
+    <Z>296</Z>
+  </Waypoint>
+  <Waypoint>
+    <X>-460</X>
+    <Y>1325</Y>
+    <Z>307</Z>
+  </Waypoint>
+</Data>
